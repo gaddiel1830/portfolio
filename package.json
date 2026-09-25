@@ -1,0 +1,1 @@
+{"name":"gaddiel-engineering-portfolio","version":"1.0.0","private":true,"type":"module","scripts":{"build":"esbuild src/main.jsx --bundle --minify --outfile=assets/app.js --legal-comments=linked","dev":"python -m http.server 8000"},"dependencies":{"react":"19.1.1","react-dom":"19.1.1"},"devDependencies":{"esbuild":"0.25.9"}}

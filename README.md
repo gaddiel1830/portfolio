@@ -51,7 +51,8 @@ styles.css             Responsive layout and motion
 src/main.jsx           Editable React source
 assets/app.js          Ready-to-publish JavaScript bundle
 assets/app.js.LEGAL.txt Third-party license notices
-assets/images/         Extracted project images
+assets/images/         Project images, portrait, and work photo
+assets/truss-bridge-video.mp4  Bridge project video
 package.json           Dependencies and build command
 pnpm-lock.yaml         Reproducible dependency versions
 pnpm-workspace.yaml    Allows the esbuild installation script

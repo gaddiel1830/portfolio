@@ -55,3 +55,10 @@ Images extracted from the presentation:
 ## Image handling
 
 Images were extracted from the attachments without inventing results or replacing evidence with generated imagery. They are displayed with their original aspect ratios; the hero micrograph is cropped by CSS. Generic stock illustrations, external equipment photos, and university branding from the documents were omitted. Ownership and permissions remain with the respective creators.
+
+## October 2, 2026 additions
+
+- User-provided portrait: the shirt logo was removed with the built-in image-generation tool. Edit prompt: remove only the red-and-black T-shirt logo and text, matching the plain fabric while preserving identity, expression, pose, background, and framing. Saved as `assets/images/gaddiel-portrait.png`.
+- User-provided UGLC 106 presentation photograph: the user identified this as undergraduate assistant work. The existing UTEP technical-support entry is labeled Undergraduate Assistant — Technical Support; its dates retain those in the resume. Photo: `assets/images/undergraduate-assistant-presentation.png`.
+- User-provided WhatsApp MP4: identified by the user as part of the truss bridge project; included unchanged as `assets/truss-bridge-video.mp4`. No claim is made that it records the specific failure load discussed in the report.
+- `The Effects of Different Types of Music on Beta Brainwaves.pdf`: EL 3302 presentation by Daniel Bañuelos, Mildred Pasillas, Sebastian Esparza, and Gaddiel Fragoso. Slides 12 and 14 describe the protocol and equipment; slide 23 describes the unsupported hypothesis and limitations. The portfolio summarizes these details without claiming clinical validity.
